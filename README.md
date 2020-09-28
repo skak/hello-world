@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Re-learning how to use GitHub
+
+Also, whiskey.
